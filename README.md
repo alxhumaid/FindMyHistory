@@ -93,3 +93,4 @@ While FindMy is running, it stores the information of your devices in temporary 
 
 If you find bugs/problems or want to add more features to this library, feel free to submit issues or make pull requests.
 
+Samjha Y samjhau
